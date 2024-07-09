@@ -2,7 +2,7 @@
 
 A Flutter application for detecting cats and dogs using deep learning.
 
-<img src="screenshots/home_screen.jpg" width="250" /> <img src="detection_example.jpg" width="250" />
+<img src="screenshots/home_screen.jpg" width="250" /> <img src="screenshots/detection_example.jpg" width="250" />
 
 ## Introduction
 
